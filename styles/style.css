@@ -1,0 +1,86 @@
+.navbarWidth {
+	width: 1000px;
+}
+.aboutBackground {
+	width : 100%;
+}
+.aboutBackground {
+	margin : 0;
+	padding: 0;
+	width : 100%;
+	position: absolute;	
+	background-image: url("https://image.ibb.co/jMGGqR/codeprogramming.jpg"); /* image credit: https://pxhere.com/en/photo/916680 */
+	background-size: 100% auto;
+}
+
+.about {
+	background-color: rgba(120,120,120,.85);
+	width : 975px;
+	border-radius : 10px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding : 10px 20px 10px 20px;
+	font-weight: bold;
+	font-size: 25px;
+	color: #0e1717;
+}
+
+.portfolio {
+	width: 975px;
+	color: #FF9900;
+	text-align: center;
+	padding : 30px 0px 20px 0px;
+}
+.portfolioHeader {
+	margin-bottom : 30px;
+}
+.portfolio h2 {
+	margin-bottom : 20px;
+	font-size : 50px;
+}
+.portfolio h3 {
+	font-size : 30px;
+	margin-bottom : 30px;
+}
+.portfolioBackground {
+	background-color: silver;
+}
+.portfolioImg {
+	border-radius : 10px;
+	height: 300px;
+	width : 325px;
+}
+.contact {
+	width: 1000px;
+  background-color: rgba(120,120,120,.75);
+}
+.contactHeader {
+	margin-top: 10px;
+}
+.contactFooter { 
+	font-size: 20px;
+}
+a {
+	color: #009a22;
+}
+.portfolio a {
+	color : #009a22;
+}
+.portfolio a:hover {
+	color : royalblue;
+	text-decoration: none;
+}
+.portfolio a:active {
+	color: #009a22;
+}
+.contact a {
+	color : cornflowerblue;
+}
+.contact a:hover {
+	color: lightblue;
+}
+.certificate {
+	width : 700px;
+	border-radius :30px;
+	margin-bottom : 25px;
+}
