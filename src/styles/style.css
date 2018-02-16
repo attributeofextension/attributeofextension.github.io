@@ -1,0 +1,69 @@
+.top-page {
+  height: 625px;
+  color: #FFC107
+;
+  font-family: 'ABeeZee', sans-serif;
+}
+body {
+  background-color: #4CAF50;
+}
+.logo {
+  position: absolute;
+  top: 80px;
+  left: 200px;
+}
+.intro {
+  background-color: #FFF176;
+  color:#212121;
+  position: absolute;
+  top: 100px;
+  left: 500px;
+  width: 350px;
+  height: 390px;
+  color: black;
+  font-size: 17px;
+}
+.contact {
+  background-color: #F8BBD0;
+  height: 390px;
+  width: 350px;
+  top:100px;
+  left: 700px;
+  color: #212121;
+}
+.next-page {
+  position: absolute;
+  top: 580px;
+  left: 50%;
+}
+.shadow1 {
+  background-color: #3F51B5;
+  height: 410px;
+  width: 1200px;
+  z-index: -1;
+  position: absolute;
+  top: 100px;
+  left: 150px;
+}
+.portfolio {
+  margin-top: 50px;
+  height: 700px;
+  width: 100%;
+  background-color: #3F51B5;
+  padding-top: 80px;
+}
+.portfolio-img {
+  width : 75%;
+}
+.portfolio-pane {
+  width : 65%;
+  background-color: #E0E0E0;
+  border: 3px solid white;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.portfolio-nav {
+  position: relative;
+  top: 50%;
+}
