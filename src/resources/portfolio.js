@@ -39,6 +39,27 @@ const portfolio = [
     ]
   },
   {
+    img: "images/pinterest_clone.jpg",
+    link: "https://squinterest.herokuapp.com/",
+    caption: "A Pinterest clone making use of Node, Express and Handlebars. Makes use of a Twitter passport strategy.",
+    links: [
+      {
+        name: "Github Repo",
+        link: "https://github.com/attributeofextension/squinterest"
+      }
+    ]
+  },
+  {
+    img: "images/recipe_box_react.jpg",
+    link: "https://codepen.io/attributeofextension/full/QaZdLz/",
+    caption: "Recipe box that makes use of local storage to store recipes. Made using React and ReactBootstrap.",
+    links: [
+      { name: "Codepen",
+        link: "https://codepen.io/attributeofextension/pen/QaZdLz"
+      }
+    ]
+  },
+  {
     img: "images/voting-app.jpg",
     link: "https://fcc-leahcarr-voting-app.herokuapp.com/",
     caption: "A voting app where you can create your own public poll that others can vote on. Node, Express, Passport and MongoDB for user authentication. Templating handled by Handlebars. Styled using Bootstrap. Pie chart driven by Google Charts.",
