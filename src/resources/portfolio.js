@@ -60,6 +60,66 @@ const portfolio = [
     ]
   },
   {
+    img: "images/dungeon_crawler.jpg",
+    link: "https://codepen.io/attributeofextension/full/opmjob/",
+    caption: "A Rogue-like Dungeon crawler using React.",
+    links: [
+      { name: "Codepen",
+        link: "https://codepen.io/attributeofextension/pen/opmjob"
+      }
+    ]
+  },
+   {
+    img: "images/camper_leaderboard.jpg",
+    link: "https://codepen.io/attributeofextension/full/wpEymj/",
+    caption: "A leaderboard that shows the contributions of freecodecampers to npo project. Made using React. Makes an API call using Fetch.",
+    links: [
+      { name: "Codepen",
+        link: "https://codepen.io/attributeofextension/pen/wpEymj"
+      }
+    ]
+  },
+  {
+    img: "images/nightlife_coord.jpg",
+    link: "https://fcc-leah-carr-nightlife-app.herokuapp.com/",
+    caption: "A leaderboard that shows the contributions of freecodecampers to npo project. Made using React. Makes an API call using Fetch.",
+    links: [
+      { name: "Github Repo",
+        link: "https://github.com/attributeofextension/nightlife-coordination"
+      }
+    ]
+  },
+  {
+    img: "images/simon_game.jpg",
+    link: "https://codepen.io/attributeofextension/full/mpPvwE",
+    caption: "A replication the game Simon using vanilla JS. The setintervals were particularly tricky to get right.",
+    links: [
+      { name: "Codepen",
+        link: "https://codepen.io/attributeofextension/pen/mpPvwE"
+      }
+    ]
+  },
+  {
+    img: "images/stock_market.jpg",
+    link: "http://fcc-leah-carr-stock-market-app.herokuapp.com",
+    caption: "Charts the stock market (enter a US stock index such \"AMZN\" to see the last 3 months of stock prices. Makes use of a socket so you can see when other users are adding stocks. HighCharts used for displaying data.",
+    links: [
+      { name: "Github Repo",
+        link: "https://github.com/attributeofextension/stock-market"
+      }
+    ]
+  },
+  {
+    img: "images/calulator.jpg",
+    link: "https://codepen.io/attributeofextension/full/baVqEB/",
+    caption: "A calculator made using vanilla JS.",
+    links: [
+      { name: "Codepen",
+        link: "https://codepen.io/attributeofextension/pen/baVqEB"
+      }
+    ]
+  },
+  {
     img: "images/voting-app.jpg",
     link: "https://fcc-leahcarr-voting-app.herokuapp.com/",
     caption: "A voting app where you can create your own public poll that others can vote on. Node, Express, Passport and MongoDB for user authentication. Templating handled by Handlebars. Styled using Bootstrap. Pie chart driven by Google Charts.",
@@ -69,6 +129,27 @@ const portfolio = [
         link: "https://github.com/attributeofextension/voting-app"
       }
     ]
-  }
+  },
+  {
+    img: "images/calulator.jpg",
+    link: "https://codepen.io/attributeofextension/full/baVqEB/",
+    caption: "A calculator made using vanilla JS.",
+    links: [
+      { name: "Codepen",
+        link: "https://codepen.io/attributeofextension/pen/baVqEB"
+      }
+    ]
+  },
+  {
+    img: "images/pomodoro_clock.jpg",
+    link: "https://codepen.io/attributeofextension/full/NXGeZX/",
+    caption: "A pomodoro clock that counts a work period and a rest period according to settings. Made with vanilla JS.",
+    links: [
+      { name: "Codepen",
+        link: "https://codepen.io/attributeofextension/pen/baVqEB"
+      }
+    ]
+  },
+
 ];
 export default portfolio;
