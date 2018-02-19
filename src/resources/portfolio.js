@@ -110,7 +110,7 @@ const portfolio = [
     ]
   },
   {
-    img: "images/calulator.jpg",
+    img: "images/calculator.jpg",
     link: "https://codepen.io/attributeofextension/full/baVqEB/",
     caption: "A calculator made using vanilla JS.",
     links: [
@@ -127,16 +127,6 @@ const portfolio = [
       {
         name: "Github Repo",
         link: "https://github.com/attributeofextension/voting-app"
-      }
-    ]
-  },
-  {
-    img: "images/calulator.jpg",
-    link: "https://codepen.io/attributeofextension/full/baVqEB/",
-    caption: "A calculator made using vanilla JS.",
-    links: [
-      { name: "Codepen",
-        link: "https://codepen.io/attributeofextension/pen/baVqEB"
       }
     ]
   },

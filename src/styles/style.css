@@ -10,14 +10,14 @@ body {
 .logo {
   position: absolute;
   top: 80px;
-  left: 200px;
+  left: 10%;
 }
 .intro {
   background-color: #FFF176;
   color:#212121;
   position: absolute;
   top: 100px;
-  left: 500px;
+  left: 30%;
   width: 350px;
   height: 390px;
   color: black;
@@ -28,7 +28,7 @@ body {
   height: 390px;
   width: 350px;
   top:100px;
-  left: 700px;
+  left: 70%;
   color: #212121;
 }
 .next-page {
@@ -38,8 +38,8 @@ body {
 }
 .shadow1 {
   background-color: #3F51B5;
-  height: 410px;
-  width: 1200px;
+  height: 80%;
+  width: 80%;
   z-index: -1;
   position: absolute;
   top: 100px;
